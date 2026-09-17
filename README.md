@@ -39,30 +39,9 @@ Disaster-Preparedness-Response-System/
 
 ---
 
-## ⚡ Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/disaster-preparedness-response-system.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd disaster-preparedness-response-system
-   ```
-3. Open `index.html` in your browser.
 
----
 
-## 📸 Screenshots (Optional)
-
-- Dashboard with stats  
-- Alerts section  
-- AI Assistant response  
-- Volunteer registration form  
-
-*(You can add screenshots here once available.)*
-
----
 
 ## 📌 Future Enhancements
 
