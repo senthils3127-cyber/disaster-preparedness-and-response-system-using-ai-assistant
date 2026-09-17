@@ -78,6 +78,4 @@ Disaster-Preparedness-Response-System/
 **Senthil S**  
 © 2026 Disaster Preparedness & Response System  
 
----
 
-Would you like me to also create a **short project description** (2–3 lines) that you can use for your GitHub repo’s **About section**? That way, visitors immediately understand the purpose before diving into the README.
